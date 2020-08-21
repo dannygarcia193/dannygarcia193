@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola :wave: !
+Just a research-oriented individual who has a passion for learning and exploring new ideas and perspectives.
 
-<!--
-**dannygarcia193/dannygarcia193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠🛠🛠 Tech Tools 🛠🛠🛠
 
-Here are some ideas to get you started:
+⚙️ Numerical analyses and data mining (Python’s Pandas and NumPy packages, Excel, Jupyter (IPython)<br>
+⚙️ Visualization (Seaborn, Matplotlib, Plotly)<br>
+⚙️ Dashboards (Dash, Tableau)<br>
+⚙️ Relational Databases (SQL – specifically, PostgreSQL and MySQL)<br>
+⚙️ Web tools (Wordpress, basic HTML and JavaScript, API requests, Python’s Beautiful Soup modules)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to me at:
+📧 dannygarcia193@gmail.com 📧 
+
