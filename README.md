@@ -1,4 +1,7 @@
-### Hola :wave: !
+### Hola :wave: ! <a href="https://www.linkedin.com/in/daniel-g-r/">
+  <img align="left" alt="Daniel's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 Just a research-oriented individual who has a passion for learning and exploring new ideas and perspectives.
 
 🛠🛠🛠 Tech Tools 🛠🛠🛠
