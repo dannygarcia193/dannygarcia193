@@ -4,6 +4,7 @@
 
 Just a research-oriented individual who has a passion for learning and exploring new ideas and perspectives.
 
+
 🛠🛠🛠 Tech Tools 🛠🛠🛠
 
 ⚙️ Numerical analyses and data mining (Python’s Pandas and NumPy packages, Excel, Jupyter (IPython)<br>
