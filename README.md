@@ -15,6 +15,3 @@ Just a research-oriented individual who has a passion for learning and exploring
 
 Feel free to reach out to me at:
 📧 dannygarcia193@gmail.com 📧 
-
-[Portfolio Website](dannygarcia193.github.io/) Using Github Pages
-
