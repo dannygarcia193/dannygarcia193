@@ -4,9 +4,9 @@
 
 Just a research-oriented individual who has a passion for learning and exploring new ideas and perspectives.
 
-Wesbite developer for <a href="http://yourvoiceourexcellence.com/">Your Voice Our Excellence</a>
+Website developer for **<a href="http://yourvoiceourexcellence.com/">Your Voice Our Excellence.</a>**
 
-My <a href="dannygarcia.herokuapp.com/">portfolio.</a>
+My **<a href="dannygarcia.herokuapp.com/">portfolio.</a>**
 
 🛠🛠🛠 Tech Tools 🛠🛠🛠
 
