@@ -6,7 +6,7 @@ Just a research-oriented individual who has a passion for learning and exploring
 
 Website developer for **<a href="http://yourvoiceourexcellence.com/">Your Voice Our Excellence.</a>**
 
-My **<a href="dannygarcia.herokuapp.com/">portfolio.</a>**
+My **<a href="dangarci.com">portfolio.</a>**
 
 🛠🛠🛠 Tech Tools 🛠🛠🛠
 
