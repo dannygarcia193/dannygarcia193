@@ -4,9 +4,9 @@
 
 Just a research-oriented individual who has a passion for learning and exploring new ideas and perspectives.
 
-Website developer for **<a href="http://yourvoiceourexcellence.com/">Your Voice Our Excellence.</a>**
+Website designer for **<a href="http://yourvoiceourexcellence.com/">Your Voice Our Excellence.</a>** and **<a href="https://www.youtube.com/c/FirmLearning/">Firm Learning</a>**
 
-My **<a href="http://dangarci.com/">portfolio.</a>**
+My **<a href="https://dangarci.com/">portfolio.</a>**
 
 🛠🛠🛠 Tech Tools 🛠🛠🛠
 
